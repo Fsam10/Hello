@@ -6,7 +6,7 @@ j'ajoute une 2ème ligne de description
 
 J'ajoute une ligne d'après update-readme
 
-Ligne ajoutée 1
+Ligne ajoutée modifiée
 
 J'ai ajouté ceci avec github
 @CopyRight Limited !
